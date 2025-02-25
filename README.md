@@ -81,7 +81,8 @@ npm start
 ### 📄 **1. OCR Document Upload**  
 - Uploads receipts, invoices, bank statements  
 - Uses **Tesseract OCR** to extract financial data  
-- Automatically categorizes **income, expenses, and deductions**  
+- Automatically categorizes **income, expenses, and deductions**
+- https://colab.research.google.com/drive/1-oa0j8OLlklCy9OyqKcRmtQRuG3bzfnN?usp=sharing
 
 ### 🤖 **2. AI Chatbot for Tax Queries**  
 - **Conversational Assistant** for real-time tax questions  
