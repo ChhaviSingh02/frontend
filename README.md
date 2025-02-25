@@ -18,18 +18,6 @@ Filing taxes can be **complicated, time-consuming, and prone to errors**. Existi
 
 ---
 
-## 📊 **Comparison with Existing Market Solutions**  
-
-| **Feature**                  | **AI Tax Assistant** | **TurboTax** | **QuickBooks** | **ClearTax** |
-|------------------------------|----------------------|--------------|----------------|--------------|
-| **OCR-Based Document Upload** | ✅ Yes | ❌ No | ❌ No | ❌ No |
-| **AI-Powered Tax Calculation** | ✅ Yes | ✅ Yes | ❌ No | ✅ Yes |
-| **Chatbot for Tax Queries**   | ✅ Yes | ❌ No | ❌ No | ✅ Yes |
-| **Tax Optimization & Deduction Checker** | ✅ Yes | ✅ Yes | ❌ No | ✅ Yes |
-| **Smart Investment Suggestions** | ✅ Yes | ❌ No | ❌ No | ❌ No |
-| **Auto-filling Tax Forms** | ✅ Yes | ✅ Yes | ✅ Yes | ✅ Yes |
-| **Free & Open-Source** | ✅ Yes | ❌ No | ❌ No | ❌ No |
-
 🚀 **Why Choose AI Tax Assistant?**  
 - **More Automation**: Unlike TurboTax & ClearTax, it extracts data using AI, reducing manual input.  
 - **Cost-Effective**: Completely open-source, unlike premium alternatives.  
