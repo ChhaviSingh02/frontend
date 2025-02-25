@@ -53,8 +53,8 @@ Filing taxes can be **complicated, time-consuming, and prone to errors**. Existi
 
 ### **1️⃣ Clone the Repository**  
 ```sh
-git clone https://github.com/your-username/ai-tax-assistant.git
-cd ai-tax-assistant
+git clone https://github.com/ChhaviSingh02/frontend.git
+cd frontend
 ```
 
 ### **2️⃣ Backend Setup**  
@@ -68,7 +68,7 @@ uvicorn main:app --reload
 
 ### **3️⃣ Frontend Setup**  
 ```sh
-cd tax-assistant
+cd frontend
 npm install
 npm start
 ```
